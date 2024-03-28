@@ -1,0 +1,6 @@
+Python is a versatile programing language.
+It is used in web development, data analysis and Artificial Inteligence.
+Learning python opens up many opportunity in tech industries.
+Today's weather forecast.
+Sunny with high 75F.
+No chances of raining today.
